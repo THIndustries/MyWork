@@ -8,4 +8,5 @@
 
 ## Branch merging
 
+*git mrge branch_name* - это команда, запускающая слияние текущей ветки с branch_name
 ## Conflicts
