@@ -4,6 +4,8 @@
 
 *git branch branch_name* - это команда, саздающая ветку с именем *branch_name*
 
+*git checkout branch_name* - команда, которая позволяет переходить к соответствующей ветке. 
+
 ## Branch merging
 
 ## Conflicts
